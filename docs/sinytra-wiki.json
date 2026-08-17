@@ -1,0 +1,12 @@
+{
+  "schema": "1",
+  "id": "castaway_raids",
+  "modid": "castaway_raids",
+  "name": "Castaway: Pirate Siege",
+  "platforms": {
+    "curseforge": "castaway-pirate-siege"
+  },
+  "owners": [
+    "Jodr1337"
+  ]
+}
