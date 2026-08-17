@@ -1,0 +1,17 @@
+{
+  "schema": "1",
+  "id": "castaway-pirate-siege",
+  "name": "Castaway: Pirate Siege",
+  "modid": "castaway_raids",
+  "platforms": {
+    "curseforge": "1656804"
+  },
+  "owners": [
+    "jodr1337"
+  ],
+  "licenses": {
+    "project": {
+      "id": "MIT"
+    }
+  }
+}
